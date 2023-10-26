@@ -8,7 +8,7 @@ Meu nome é Exsar Potella.
 - Utilizo este espaço para minha organização e compartilhamento dos meu projetos.
 
 
-### Você pode entrar em contato comigo 📫 
+### Você pode entrar em contato comigo por meio deste correio 📫 :
 
 exsar.mendoza@escola.pr.gov.br
 
