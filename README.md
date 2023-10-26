@@ -2,6 +2,7 @@
 
 Meu nome é Exsar Potella.
 
+
 - Utilizo a plataforma Alura para aprender sobre programação.
 - Estou me desenvolvendo nas linguagens Javascript, Html e CSS.
 - Utilizo este espaço para minha organização e compartilhamento dos meu projetos.
@@ -10,3 +11,6 @@ Meu nome é Exsar Potella.
 ### Você pode entrar em contato comigo 📫 
 
 exsar.mendoza@escola.pr.gov.br
+
+
+![](https://media.tenor.com/nTBRE0ccViwAAAAC/berserk-guts-berserk.gif)
