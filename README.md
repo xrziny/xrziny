@@ -13,4 +13,4 @@ Meu nome é Exsar Potella.
 exsar.mendoza@escola.pr.gov.br
 
 
-![]https://media.tenor.com/OTTUewido_QAAAAd/guts-berserk.gif
+![](https://media.tenor.com/OTTUewido_QAAAAd/guts-berserk.gif)
